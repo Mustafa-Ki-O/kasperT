@@ -71,7 +71,7 @@ header .container {
     justify-content: space-between;
     align-items: center;
     position: relative;
-	min-height: 65px;
+	min-height: 64px;
 }
 
 header .container::before {
